@@ -4,6 +4,8 @@
 flow
 ======
 
+[![Join the chat at https://gitter.im/sahilseth/flowr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sahilseth/flowr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > This packages should install OK. Build failure is likely incorrect, more on this [here](https://github.com/hadley/stringr/issues/68)
 
 R pacakge to design (and deploy) complex workflows, in a effective and efficient manner on High Perfomance computing clusters.
